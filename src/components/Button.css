@@ -1,0 +1,12 @@
+.buttonBlue {
+  height: 40px;
+  background: #182a8c;
+  color: #ffffff;
+  border: 1px solid #182a8c;
+}
+.buttonGreen {
+  height: 40px;
+  background: #65c87a;
+  color: #ffffff;
+  border: 1px solid #65c87a;
+}

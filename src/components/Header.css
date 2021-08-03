@@ -1,0 +1,12 @@
+.header {
+  margin: 20px;
+  display: flex;
+}
+.firstCol {
+  width: 80%;
+}
+.secondCol {
+  display: flex;
+  justify-content: space-between;
+  width: 20%;
+}
